@@ -1,0 +1,13 @@
+C:\Users\Alex\source\repos\PatronFacade\bin\Debug\netcoreapp3.1\PatronFacade.exe
+C:\Users\Alex\source\repos\PatronFacade\bin\Debug\netcoreapp3.1\PatronFacade.deps.json
+C:\Users\Alex\source\repos\PatronFacade\bin\Debug\netcoreapp3.1\PatronFacade.runtimeconfig.json
+C:\Users\Alex\source\repos\PatronFacade\bin\Debug\netcoreapp3.1\PatronFacade.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\PatronFacade\bin\Debug\netcoreapp3.1\PatronFacade.dll
+C:\Users\Alex\source\repos\PatronFacade\bin\Debug\netcoreapp3.1\PatronFacade.pdb
+C:\Users\Alex\source\repos\PatronFacade\obj\Debug\netcoreapp3.1\PatronFacade.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\PatronFacade\obj\Debug\netcoreapp3.1\PatronFacade.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\PatronFacade\obj\Debug\netcoreapp3.1\PatronFacade.AssemblyInfo.cs
+C:\Users\Alex\source\repos\PatronFacade\obj\Debug\netcoreapp3.1\PatronFacade.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\PatronFacade\obj\Debug\netcoreapp3.1\PatronFacade.dll
+C:\Users\Alex\source\repos\PatronFacade\obj\Debug\netcoreapp3.1\PatronFacade.pdb
+C:\Users\Alex\source\repos\PatronFacade\obj\Debug\netcoreapp3.1\PatronFacade.genruntimeconfig.cache
